@@ -1,10 +1,4 @@
-Portfolio Project #1: Gazetteer
-The first portfolio project, "Gazetteer," involved creating a map-based app to provide information on countries, with a specific focus on a "mobile-first" development approach. The project used the following tech stack:
+Portfolio Project #2: Company Directory The second portfolio project, "Company Directory," demanded a more comprehensive approach as it necessitated the creation of a user requirements document. The project used the following tech stack:
 
-HTML
-CSS
-jQuery
-PHP
-Leafletjs
-Bootstrap 5
-The solution incorporated PHP server-based components to fetch data from third-party APIs such as Geonames and OpenWeather.
+HTML CSS jQuery PHP MySQL Bootstrap 5 
+The project involved developing a "mobile-first" application for maintaining a company personnel database using MySQL.
